@@ -14,9 +14,8 @@ Summary: A collection of functions to implement a class for univariate polynomia
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-polynom-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-polynom-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-polynom-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-polynom-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-polynom-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-polynom-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-polynom-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-polynom-feedstock)
 
 Current release info
 ====================
