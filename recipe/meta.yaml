@@ -1,4 +1,4 @@
-{% set version = '1.4-0' %}
+{% set version = "1.4-1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,11 +10,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/polynom_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/polynom/polynom_{{ version }}.tar.gz
-  sha256: c5b788b26f7118a18d5d8e7ba93a0abf3efa6603fa48603c70ed63c038d3d4dd
+  sha256: bc1edb7bb16c8b299103f80a52ab8c5fc200cd07a9056578c1f672e9f5019278
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  merge_build_host: true  # [win]
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
