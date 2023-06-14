@@ -1,11 +1,11 @@
-About r-polynom
-===============
+About r-polynom-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-polynom-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=polynom
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-polynom-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of functions to implement a class for univariate polynomial manipulations.
 
